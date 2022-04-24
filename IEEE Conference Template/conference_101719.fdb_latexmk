@@ -1,6 +1,6 @@
 # Fdb version 3
-["pdflatex"] 1650836857 "/Users/Sia/Python/NLP/IEEE-Conference-Paper/IEEE Conference Template/conference_101719.tex" "conference_101719.pdf" "conference_101719" 1650836859
-  "/Users/Sia/Python/NLP/IEEE-Conference-Paper/IEEE Conference Template/conference_101719.tex" 1650836856 14611 fd66ddf8803b112a11900ff15cea624a ""
+["pdflatex"] 1650839074 "/Users/Sia/Python/NLP/IEEE-Conference-Paper/IEEE Conference Template/conference_101719.tex" "conference_101719.pdf" "conference_101719" 1650839075
+  "/Users/Sia/Python/NLP/IEEE-Conference-Paper/IEEE Conference Template/conference_101719.tex" 1650839071 14606 ef0716e402893ef12ad18fc1574adc6c ""
   "/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/local/texlive/2022/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/tfm/adobe/courier/pcrr7t.tfm" 1136768653 960 379cc0019370a9e0208a0a3f949f847a ""
@@ -13,6 +13,7 @@
   "/usr/local/texlive/2022/texmf-dist/fonts/tfm/adobe/times/ptmr8r.tfm" 1136768653 4408 25b74d011a4c66b7f212c0cc3c90061b ""
   "/usr/local/texlive/2022/texmf-dist/fonts/tfm/adobe/times/ptmrc7t.tfm" 1136768653 2680 312a2d12b1f1df8ee0212e7ba1962402 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/tfm/adobe/times/ptmri7t.tfm" 1136768653 2288 f478fc8fed18759effb59f3dad7f3084 ""
+  "/usr/local/texlive/2022/texmf-dist/fonts/tfm/adobe/times/ptmri8c.tfm" 1136768653 1428 3f135d3346fb7bfe71989ef2e19a9f01 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/tfm/adobe/times/ptmri8r.tfm" 1136768653 4640 532ca3305aad10cc01d769f3f91f1029 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1246382020 1004 54797486969f23fa377b128694d548df ""
   "/usr/local/texlive/2022/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1246382020 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
@@ -53,6 +54,7 @@
   "/usr/local/texlive/2022/texmf-dist/fonts/vf/adobe/times/ptmr7t.vf" 1136768653 1380 0ea3a3370054be6da6acd929ec569f06 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/vf/adobe/times/ptmrc7t.vf" 1136768653 1948 7330aeef3af211edff3b35fb2c12a0fd ""
   "/usr/local/texlive/2022/texmf-dist/fonts/vf/adobe/times/ptmri7t.vf" 1136768653 1384 a9d8adaf491ce34e5fba99dc7bbe5f39 ""
+  "/usr/local/texlive/2022/texmf-dist/fonts/vf/adobe/times/ptmri8c.vf" 1136768653 3564 2068501a2226e54ce367edd5b047e424 ""
   "/usr/local/texlive/2022/texmf-dist/tex/context/base/mkii/supp-pdf.mkii" 1461363279 71627 94eb9990bed73c364d7f53f960cc8c5b ""
   "/usr/local/texlive/2022/texmf-dist/tex/latex/algorithms/algorithmic.sty" 1251330371 9318 793e9d5a71e74e730d97f6bf5d7e2bca ""
   "/usr/local/texlive/2022/texmf-dist/tex/latex/amsfonts/amsfonts.sty" 1359763108 5949 3f3fd50a8cc94c3d4cbf4fc66cd3df1c ""
@@ -80,14 +82,15 @@
   "/usr/local/texlive/2022/texmf-dist/tex/latex/psnfss/omsptm.fd" 1137110629 576 95c2c0baea9c719a4be29a3d4122498b ""
   "/usr/local/texlive/2022/texmf-dist/tex/latex/psnfss/ot1pcr.fd" 1137110629 985 1ed784d7bfe47179f3550d2303b073f8 ""
   "/usr/local/texlive/2022/texmf-dist/tex/latex/psnfss/ot1ptm.fd" 1137110629 961 15056f4a61917ceed3a44e4ac11fcc52 ""
+  "/usr/local/texlive/2022/texmf-dist/tex/latex/psnfss/ts1ptm.fd" 1137110629 619 96f56dc5d1ef1fe1121f1cfeec70ee0c ""
   "/usr/local/texlive/2022/texmf-dist/tex/latex/xcolor/xcolor.sty" 1635798903 56029 3f7889dab51d620aa43177c391b7b190 ""
   "/usr/local/texlive/2022/texmf-dist/web2c/texmf.cnf" 1646502317 40171 cdab547de63d26590bebb3baff566530 ""
   "/usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1647878959 4410336 7d30a02e9fa9a16d7d1f8d037ba69641 ""
   "/usr/local/texlive/2022/texmf-var/web2c/pdftex/pdflatex.fmt" 1650826650 2826436 4a105166571f7b69f1127c197e705b7b ""
   "/usr/local/texlive/2022/texmf.cnf" 1647878952 577 209b46be99c9075fd74d4c0369380e8c ""
   "IEEEtran.cls" 1650823958 281957 5b2e4fa15b0f7eabb840ebf67df4c0f7 ""
-  "conference_101719.aux" 1650836859 2344 f7a8d11b01c632f1926b444b64d8fbb6 "pdflatex"
-  "conference_101719.tex" 1650836856 14611 fd66ddf8803b112a11900ff15cea624a ""
+  "conference_101719.aux" 1650839075 2344 a69b0694c4369593e4db40762d46897e "pdflatex"
+  "conference_101719.tex" 1650839071 14606 ef0716e402893ef12ad18fc1574adc6c ""
   "fig1.png" 1650823958 4535 3b4c70b1b9361fad686e8d234c8fe506 ""
   (generated)
   "conference_101719.aux"
